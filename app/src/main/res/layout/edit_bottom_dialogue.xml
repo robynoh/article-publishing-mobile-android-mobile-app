@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@drawable/white_btn_bg">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/gray_btn_bg"
+        android:layout_marginEnd="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical">
+        <Button
+            android:id="@+id/editArticle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#0000"
+            android:fontFamily="sans-serif-medium"
+            android:gravity="left|center_vertical"
+            android:drawableStart="@drawable/edit"
+            android:paddingLeft="20dp"
+            android:text="Edit"
+            android:textColor="#000" />
+        <!-- Right most ImageView -->
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/gray_btn_bg"
+        android:layout_marginEnd="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical">
+        <Button
+            android:id="@+id/deleteArticle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#0000"
+            android:fontFamily="sans-serif-medium"
+            android:gravity="left|center_vertical"
+            android:drawableStart="@drawable/trash"
+            android:paddingLeft="20dp"
+            android:text="DELETE"
+            android:textColor="#000" />
+        <!-- Right most ImageView -->
+    </LinearLayout>
+
+
+
+</LinearLayout>

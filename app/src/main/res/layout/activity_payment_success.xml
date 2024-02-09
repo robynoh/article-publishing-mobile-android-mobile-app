@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".payment_success">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="30dp"
+        tools:ignore="MissingConstraints">
+
+        <ImageView
+            android:id="@+id/emailiconx"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_weight="1"
+            android:padding="2dp"
+            android:gravity="center"
+            android:background="@drawable/check"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Your payment for this article is succesful. You can access articles you purchase in your purchase button from your profile dashboard"
+
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            android:paddingTop="10dp"/>
+
+        <TextView
+            android:id="@+id/articletitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="10dp"
+            android:fontFamily="sans-serif-medium"
+            android:gravity="center"
+            android:text="Cointegration relationship between Food Production and Carbon Emission"
+            android:textColor="@color/black"
+            android:textSize="22sp"
+            android:textStyle="bold"
+
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textTitle"
+            android:gravity="center"
+            android:text="By"
+
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            android:paddingTop="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/articleauthor"
+            android:gravity="center"
+            android:text="Stanley Simon"
+
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            android:paddingTop="10dp"/>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/okay"
+            android:layout_width="100dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/d1_profile_btn"
+            android:text="okay"
+            android:textColor="@color/white"
+            android:textAllCaps="false"
+            android:gravity="center"
+            android:textSize="14dp"
+
+
+            android:layout_gravity="center"/>
+
+
+
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

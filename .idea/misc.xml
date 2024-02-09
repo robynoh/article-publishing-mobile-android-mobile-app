@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/drawable/buy_with_googlepay_button_content.xml" value="0.186" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/drawable/d1_profile_btn.xml" value="0.1895" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/drawable/delete_dialogue_bg.xml" value="0.158" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/drawable/edit_article_bg.xml" value="0.19" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/drawable/edit_article_bg_two.xml" value="0.1585" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/drawable/googlepay_button_background.xml" value="0.186" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/drawable/googlepay_button_no_shadow_background.xml" value="0.1" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/drawable/gray_btn_bg.xml" value="0.1555" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/drawable/header_bg.xml" value="0.2115" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/drawable/pic_bg.xml" value="0.1895" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/drawable/read_pdf.xml" value="0.1655" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/drawable/signup_btn_border.xml" value="0.1585" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/drawable/white_bg.xml" value="0.2105" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/drawable/white_btn_bg.xml" value="0.158" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/drawable/white_btn_bg2.xml" value="0.158" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_all_my_purchase.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_all_my_sales.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_all_published_articles.xml" value="0.25" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_article_detail.xml" value="0.25" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_article_detail_guest.xml" value="0.22" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_buy_credit.xml" value="0.33" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_create_account.xml" value="0.25" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_edit_article.xml" value="0.22" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_edit_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_flash_screen.xml" value="0.12273550724637682" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_forgot_password1.xml" value="0.33" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_forgot_password2.xml" value="0.22" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_home.xml" value="0.15081521739130435" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_new_photo.xml" value="0.18" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_new_publication.xml" value="0.2" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_onboarding.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_password_reset_success.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_pay_online.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_payment.xml" value="0.22" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_payment_success.xml" value="0.33" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_purchase_article_detail.xml" value="0.25" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_read_pdf_file.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_refund_policy.xml" value="0.22" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_search.xml" value="0.25" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_search2.xml" value="0.25" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_signin_remind.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_subcategory.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/activity_walkthrough.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/all_article.xml" value="0.25" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/all_category_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/all_latest_books.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/all_mybooks.xml" value="0.25" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/all_publication_bottom_sheet.xml" value="0.25" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/all_saved_articles.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/all_search_layout.xml" value="0.38737446197991393" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/bottom_list_view.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/buy_publication.xml" value="0.33" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/credit_bought.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/delete_article_dialogue.xml" value="0.25" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/delete_saved_dialogue.xml" value="0.16" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/edit_bottom_dialogue.xml" value="0.22" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/fragment_home.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/fragment_latesbooks.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/fragment_mybooks.xml" value="0.1" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/fragment_savedbooks.xml" value="0.18" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/no_credit_buy_dialogue.xml" value="0.33" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/notexist_dialogue.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/password_reset_dialogue.xml" value="0.25" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/password_reset_success.xml" value="0.12273550724637682" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/purchase_layout.xml" value="0.33" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/remove_this_save.xml" value="0.25" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/sales_layout.xml" value="0.33" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/save_article_dialogue.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/save_success_dialogue.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/simple_spinner_dropdown_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/slide_layout.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/slides_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/subcategory_layout.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/submit_article_dialogue.xml" value="0.33" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/submit_article_dialogue_no_credit.xml" value="0.33" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/submit_publication_dialogue.xml" value="0.33" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/success_dialogue.xml" value="0.25" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/toolbar.xml" value="0.1675213675213675" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/update_dialogue.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/update_dialogue_article.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/warning_dialuge.xml" value="0.25" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/layout/wrong_upload.xml" value="0.33" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/menu/bottom_nav_menu.xml" value="0.33" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/menu/profile_menu.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/menu/search_menu.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Robinson/Desktop/DessertationOne/app/src/main/res/menu/side_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

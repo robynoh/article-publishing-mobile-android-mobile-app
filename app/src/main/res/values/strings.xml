@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DessertationOne</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="intro">Paste in the introduction of your publication</string>
+    <string name="start">Lets kick start</string>
+    <string name="desc">walk through image</string>
+
+
+</resources>

@@ -1,0 +1,70 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    compileSdk 33
+
+    defaultConfig {
+        applicationId "com.test.dessertationone"
+        minSdk 21
+        targetSdk 32
+        versionCode 14
+        versionName "dissertation 14.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+
+   implementation 'androidx.appcompat:appcompat:1.6.1'
+
+    implementation 'com.google.android.material:material:1.8.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    
+
+//    implementation 'com.squareup.okhttp3:okhttp:3.3.1'
+//    implementation 'com.nbsp:library:1.09'
+
+
+
+
+
+
+
+    implementation 'de.hdodenhof:circleimageview:1.2.1'
+    implementation 'com.android.volley:volley:1.2.1'
+    implementation 'com.squareup.picasso:picasso:2.71828'
+    //implementation 'com.squareup.okhttp3:okhttp:4.10.0'
+   // implementation 'com.github.HBiSoft:PickiT:2.0.5'
+    //implementation 'com.karumi:dexter:6.0.2'
+    //////////////////// to allow lates andriod devices connect to ther server, give app internet permission ////////
+    implementation 'org.jbundle.util.osgi.wrapped:org.jbundle.util.osgi.wrapped.org.apache.http.client:4.1.2'
+
+
+
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+
+
+
+//    implementation 'com.google.android.gms:play-services-wallet:18.0.0'
+  //  implementation "com.google.android.gms:play-services-wallet:19.2.0-beta01"
+    //implementation 'com.github.Flutterwave:rave-android:1.0.49.1'
+
+
+
+}
